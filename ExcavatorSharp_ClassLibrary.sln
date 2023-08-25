@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcavatorSharp", "ExcavatorSharp\ExcavatorSharp.csproj", "{37BC1476-4B46-4C35-9FE9-537B85A98862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Debug|x64.ActiveCfg = Debug|x64
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Debug|x64.Build.0 = Debug|x64
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Release|x64.ActiveCfg = Release|x64
+		{37BC1476-4B46-4C35-9FE9-537B85A98862}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA5A973-5986-47B0-B727-A16A780FD399}
+	EndGlobalSection
+EndGlobal

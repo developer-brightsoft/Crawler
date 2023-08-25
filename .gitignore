@@ -1,0 +1,6 @@
+.\ExcavatorSharp\obj
+.\ExcavatorSharp\bin
+packages/
+ExcavatorSharp/bin/
+ExcavatorSharp/obj/
+.vs/
